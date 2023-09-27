@@ -1,0 +1,16 @@
+h1 {
+  font-size: 2.5rem;
+}
+
+.recipe-title {
+  font-size: 1.5rem;
+}
+
+.recipe-title a {
+  color: #e36414;
+  text-decoration: none;
+}
+
+.recipe-title a:hover {
+  color: #f9c74f;
+}
